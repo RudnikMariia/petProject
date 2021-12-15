@@ -1,17 +1,22 @@
 {
   "notes": [
     {
-      "id": 1639543161776,
-      "name": "ertewrt",
+      "id": 1639544921140,
+      "name": "Новый год",
       "items": [
         {
-          "id": 1639543165112,
-          "value": "ertret",
+          "id": 1639544939084,
+          "value": "Украсить ёлку",
           "completed": false
         },
         {
-          "id": 1639543166248,
-          "value": "ertert",
+          "id": 1639545006748,
+          "value": "Купить подарки",
+          "completed": false
+        },
+        {
+          "id": 1639545049700,
+          "value": "Включить гирлянду",
           "completed": true
         }
       ]
