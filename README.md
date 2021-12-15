@@ -4,7 +4,10 @@
 ```
 npm install
 ```
-
+### For start Db-JSON
+```
+npx json-server --watch -p 3001 server.json
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -13,11 +16,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
